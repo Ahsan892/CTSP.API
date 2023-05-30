@@ -1,0 +1,261 @@
+﻿{
+   "CodeGenerationMode": 2,
+   "ContextClassName": "CTSPRecruiterContext",
+   "ContextNamespace": "Data",
+   "DefaultDacpacSchema": null,
+   "FilterSchemas": false,
+   "IncludeConnectionString": false,
+   "ModelNamespace": "Models",
+   "OutputContextPath": "Data",
+   "OutputPath": "Models",
+   "PreserveCasingWithRegex": true,
+   "ProjectRootNamespace": "CTSP.API",
+   "Schemas": null,
+   "SelectedHandlebarsLanguage": 0,
+   "SelectedToBeGenerated": 0,
+   "Tables": [
+      {
+         "Name": "[dbo].[Spr_Academic]",
+         "ObjectType": 1
+      },
+      {
+         "Name": "[dbo].[SPR_AcceptedRejectedList]",
+         "ObjectType": 1
+      },
+      {
+         "Name": "[dbo].[SPR_Area]",
+         "ObjectType": 1
+      },
+      {
+         "Name": "[dbo].[Spr_Certificate]",
+         "ObjectType": 1
+      },
+      {
+         "Name": "[dbo].[SPR_City]",
+         "ObjectType": 1
+      },
+      {
+         "Name": "[dbo].[SPR_Country]",
+         "ObjectType": 1
+      },
+      {
+         "Name": "[dbo].[SPR_DashBoard]",
+         "ObjectType": 1
+      },
+      {
+         "Name": "[dbo].[SPR_District]",
+         "ObjectType": 1
+      },
+      {
+         "Name": "[dbo].[SPR_Division]",
+         "ObjectType": 1
+      },
+      {
+         "Name": "[dbo].[SPR_DropDowns]",
+         "ObjectType": 1
+      },
+      {
+         "Name": "[dbo].[Spr_Experience]",
+         "ObjectType": 1
+      },
+      {
+         "Name": "[dbo].[SPR_GetQCReviewUsersinfo]",
+         "ObjectType": 1
+      },
+      {
+         "Name": "[dbo].[SPR_GetQCUsersinfo_bk]",
+         "ObjectType": 1
+      },
+      {
+         "Name": "[dbo].[SPR_GetQCUsersinfo]",
+         "ObjectType": 1
+      },
+      {
+         "Name": "[dbo].[SPR_GetUsersinfo]",
+         "ObjectType": 1
+      },
+      {
+         "Name": "[dbo].[SPR_JobTermsVerify]",
+         "ObjectType": 1
+      },
+      {
+         "Name": "[dbo].[SPR_LoginIssue]",
+         "ObjectType": 1
+      },
+      {
+         "Name": "[dbo].[SPR_PostApply_backup]",
+         "ObjectType": 1
+      },
+      {
+         "Name": "[dbo].[SPR_PostApply]",
+         "ObjectType": 1
+      },
+      {
+         "Name": "[dbo].[SPR_PrintData]",
+         "ObjectType": 1
+      },
+      {
+         "Name": "[dbo].[SPR_PrintRollnoSlip]",
+         "ObjectType": 1
+      },
+      {
+         "Name": "[dbo].[SPR_Province]",
+         "ObjectType": 1
+      },
+      {
+         "Name": "[dbo].[Spr_QCAcademic]",
+         "ObjectType": 1
+      },
+      {
+         "Name": "[dbo].[SPR_QCAddQuery]",
+         "ObjectType": 1
+      },
+      {
+         "Name": "[dbo].[SPR_QCBatch]",
+         "ObjectType": 1
+      },
+      {
+         "Name": "[dbo].[SPR_QCJobStatuUser_05_04_2023]",
+         "ObjectType": 1
+      },
+      {
+         "Name": "[dbo].[SPR_QCJobStatuUser_bk]",
+         "ObjectType": 1
+      },
+      {
+         "Name": "[dbo].[SPR_QCJobStatuUser]",
+         "ObjectType": 1
+      },
+      {
+         "Name": "[dbo].[SPR_QCResults]",
+         "ObjectType": 1
+      },
+      {
+         "Name": "[dbo].[SPR_QCReview]",
+         "ObjectType": 1
+      },
+      {
+         "Name": "[dbo].[SPR_QCReviewJobStatuUser]",
+         "ObjectType": 1
+      },
+      {
+         "Name": "[dbo].[SPR_QcReviewStatus]",
+         "ObjectType": 1
+      },
+      {
+         "Name": "[dbo].[SPR_QCTracingTransfer]",
+         "ObjectType": 1
+      },
+      {
+         "Name": "[dbo].[SPR_QCUser]",
+         "ObjectType": 1
+      },
+      {
+         "Name": "[dbo].[SPR_QCUsers]",
+         "ObjectType": 1
+      },
+      {
+         "Name": "[dbo].[SPR_QCViewSubmitResults_backup]",
+         "ObjectType": 1
+      },
+      {
+         "Name": "[dbo].[SPR_QCViewSubmitResults_lastbackup]",
+         "ObjectType": 1
+      },
+      {
+         "Name": "[dbo].[SPR_QCViewSubmitResults]",
+         "ObjectType": 1
+      },
+      {
+         "Name": "[dbo].[SPR_RollSlip]",
+         "ObjectType": 1
+      },
+      {
+         "Name": "[dbo].[SPR_SingleLoopup]",
+         "ObjectType": 1
+      },
+      {
+         "Name": "[dbo].[SPR_TbUsersProfile]",
+         "ObjectType": 1
+      },
+      {
+         "Name": "[dbo].[SPR_Tehsil]",
+         "ObjectType": 1
+      },
+      {
+         "Name": "[dbo].[SPR_Terms]",
+         "ObjectType": 1
+      },
+      {
+         "Name": "[dbo].[SPR_TermsVerify]",
+         "ObjectType": 1
+      },
+      {
+         "Name": "[dbo].[SPR_twoLoopup]",
+         "ObjectType": 1
+      },
+      {
+         "Name": "[dbo].[SPR_UC]",
+         "ObjectType": 1
+      },
+      {
+         "Name": "[dbo].[SPR_UpdateUsersinfo]",
+         "ObjectType": 1
+      },
+      {
+         "Name": "[dbo].[SPR_UserPostingView]",
+         "ObjectType": 1
+      },
+      {
+         "Name": "[dbo].[SPR_Userreg]",
+         "ObjectType": 1
+      },
+      {
+         "Name": "[dbo].[SPR_UsersDoucment]",
+         "ObjectType": 1
+      },
+      {
+         "Name": "[dbo].[SPR_Usersinfo]",
+         "ObjectType": 1
+      },
+      {
+         "Name": "[dbo].[Spr_UsersJobs]",
+         "ObjectType": 1
+      },
+      {
+         "Name": "[dbo].[SPR_UserWithProfile]",
+         "ObjectType": 1
+      },
+      {
+         "Name": "[dbo].[SPR_UserWithProfilePicOnly]",
+         "ObjectType": 1
+      },
+      {
+         "Name": "[dbo].[SPR_ViewData]",
+         "ObjectType": 1
+      },
+      {
+         "Name": "[dbo].[SPR_ViewQCPrintData]",
+         "ObjectType": 1
+      }
+   ],
+   "UiHint": "smokeyseks\\mssqlserver2022.CTSPRecruiter.dbo",
+   "UncountableWords": null,
+   "UseBoolPropertiesWithoutDefaultSql": false,
+   "UseDatabaseNames": false,
+   "UseDateOnlyTimeOnly": false,
+   "UseDbContextSplitting": false,
+   "UseFluentApiOnly": true,
+   "UseHandleBars": false,
+   "UseHierarchyId": false,
+   "UseInflector": true,
+   "UseLegacyPluralizer": false,
+   "UseManyToManyEntity": false,
+   "UseNoDefaultConstructor": false,
+   "UseNoObjectFilter": false,
+   "UseNodaTime": false,
+   "UseNullableReferences": false,
+   "UseSchemaFolders": false,
+   "UseSpatial": false,
+   "UseT4": false
+}
